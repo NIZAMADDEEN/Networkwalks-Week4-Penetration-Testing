@@ -98,7 +98,7 @@ Networkwalks-Week4-Pentest/
 │   └── networkwalks-logo.png
 │
 ├── report/
-│   └── Mediroza_Penetration_Test_Report.pdf
+│   └── Mediroza Hospital Pen reports By Nizamaddeen Umar.pdf
 │
 └── README.md
 ```
