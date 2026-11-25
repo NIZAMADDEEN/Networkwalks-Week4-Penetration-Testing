@@ -1,6 +1,6 @@
 # Networkwalks Week 4 – Mediroza General Hospital Penetration Testing Report
 
-![Networkwalks Logo](images/networkwalks-logo.png)
+
 
 ## Project Overview
 
